@@ -202,7 +202,6 @@ Tu apoyo ayuda a mantener y mejorar el proyecto.
 Para reportar bugs, sugerencias o consultas:
 - 🐛 [Reportar un problema](https://github.com/lalita635dev-prog/website-update-monitor/issues)
 - 💡 [Solicitar una función](https://github.com/lalita635dev-prog/website-update-monitor/issues)
-- 📂 [Ver el código fuente](https://github.com/lalita635dev-prog/website-update-monitor)
 
 ---
 
