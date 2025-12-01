@@ -1,6 +1,6 @@
 # 🌐 Website Update Monitor v1.0
 
-![Website Update Monitor](icon.png)
+![Website Update Monitor](icono.png)
 
 **¡Bienvenido al Website Update Monitor!**
 
