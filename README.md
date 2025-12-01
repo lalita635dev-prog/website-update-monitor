@@ -212,8 +212,4 @@ Para reportar bugs, sugerencias o consultas:
 
 ⭐ Si te gusta este proyecto, dale una estrella en GitHub
 
-**By Lalita635**
-
-[🌐 Web](http://bit.ly/45BE8TF) • [☕ Colabora](http://bit.ly/4fS0yUa)
-
 </div>
